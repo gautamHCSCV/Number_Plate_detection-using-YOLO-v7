@@ -1,0 +1,5 @@
+names:
+- Number Plate
+nc: 1
+train: Number-plate/train/
+val: Number-plate/valid/
