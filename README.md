@@ -6,4 +6,4 @@ YOLO is an algorithm that uses neural networks to provide real-time object detec
 
 ![test_batch1_pred](https://user-images.githubusercontent.com/65457437/191415075-4f7ae712-0d4e-41c6-ac21-9c3cfdcc0716.jpg)
 
-
+![inference video](https://github.com/gautamHCSCV/Number_Plate_detection-using-YOLO-v7/blob/main/Sample%20outputs/output_B.mp4)
