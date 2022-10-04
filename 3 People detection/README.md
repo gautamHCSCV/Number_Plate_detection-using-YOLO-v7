@@ -1,4 +1,3 @@
-## Results on images in exp folder:
 
 ![image](https://user-images.githubusercontent.com/65457437/193733351-e130f55b-71cf-4123-be55-9570d6a05802.png)
 
